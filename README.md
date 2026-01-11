@@ -1,5 +1,5 @@
 # Power-BI-Dynamic-Matrix-Filtering
-Gif-muotoinen näyte, miten PBI matriisia voi käyttäjän toimesta suodattaa dynaamisesti. Sekä rivejä, että sarakkeita.
+Esimerkki lopputuloksesta miten PBI matriisin rivejä ja sarakkeita voi raportin käyttäjän toimesta suodattaa dynaamisesti.
 
 Esimerkissä oleva data on peräisin Microsoftin Contoso demo datasetista.
 
