@@ -32,12 +32,14 @@ M Sales Quantity -sarake tehty perinteisellä tavalla ja M Revenue UDF:n avulla 
 
 ![Numeron muotoilu - M Sales Quantity perinteisellä tavalla ja M Revenue UDF:n avulla](UDF.png)
 
+<br>
 
 #### Toinen esimerkki UDF:n käytöstä
 
 Mittarit luotu perinteisellä tavalla.
 
-![Mittarit perinteisellä tavalla](Mittarit%20perinteinen.png)
+<img src="Mittarit%20p1.png" width="20%"> <img src="Mittarit%20p2.png" width="20%"> <img src="Mittarit%20p3.png" width="20%">
+
 
 Vs. ratkaisu, jossa mittarit käyttävät funktiota.
 
