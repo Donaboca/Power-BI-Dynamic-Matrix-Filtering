@@ -2,7 +2,7 @@
 ## Sisällysluettelo
 - [Dynaaminen PBI matriisin rivien ja sarakkeiden suodatus](#dynaaminen-pbi-matriisin-rivien-ja-sarakkeiden-suodatus)
 - [User Defined Functions, käyttäjän määrittelemät funktiot](#user-defined-functions-käyttäjän-määrittelemät-funktiot)
-- [Toinen esimerkki UDF:n käytöstä](#Toinen-esimerkki-udfn-käytöstä)
+  - [Toinen esimerkki UDF:n käytöstä](#Toinen-esimerkki-udfn-käytöstä)
 ### Dynaaminen PBI matriisin rivien ja sarakkeiden suodatus
 Esimerkki lopputuloksesta miten PBI matriisin rivejä ja sarakkeita voi raportin käyttäjän toimesta suodattaa dynaamisesti.
 
