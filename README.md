@@ -1,10 +1,10 @@
 # Power BI Tricks
 ## Sisällysluettelo
 - [Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus](#dynaaminen-power-bi-matriisin-rivien-ja-sarakkeiden-suodatus)
-- [User Defined Functions - Käyttäjän määrittelemät funktiot](#user-defined-functions-käyttäjän-määrittelemät-funktiot)
+- [User Defined Functions - Käyttäjän määrittelemät funktiot](#user-defined-functions---käyttäjän-määrittelemät-funktiot)
   - [Toinen esimerkki UDF:n käytöstä](#Toinen-esimerkki-udfn-käytöstä)
   - [Käyttäjän valinta UDF-parametrina](#käyttäjän-valinta-udf-parametrina)
-- [Calculation Groups - Laskentaryhmät ](#calculation-groups-laskentaryhmät) 
+- [Calculation Groups - Laskentaryhmät ](#calculation-groups---laskentaryhmät) 
  
 --- 
 ### Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus
